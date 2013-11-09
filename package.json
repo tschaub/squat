@@ -1,6 +1,6 @@
 {
   "name": "squat",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Basic template for new modules",
   "main": "lib/index.js",
   "scripts": {
