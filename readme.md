@@ -13,10 +13,10 @@ You can set up a new project based on squat with [`nik`](https://npmjs.org/packa
 
     npm install -g nik
 
-Now, to create a new module, create a directory and set up the scaffolding:
+Now, say you want to create a new module named `diddly`.  Create a new directory and set up the module scaffolding with the following:
 
-    mkdir my-module
-    cd my-module
+    mkdir diddly
+    cd diddly
     nik tschaub/squat
 
 After answering a few questions, you'll be set up with the basics for your new module.
