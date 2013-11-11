@@ -10,6 +10,7 @@
   "trailing": true,
   "maxlen": 80,
   "globals": {
+    "Buffer": false,
     "exports": true,
     "module": false,
     "process": false,

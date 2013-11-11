@@ -10,9 +10,12 @@
   "trailing": true,
   "maxlen": 80,
   "globals": {
+    "Buffer": false,
     "exports": true,
     "before": false,
+    "beforeEach": false,
     "after": false,
+    "afterEach": false,
     "describe": false,
     "it": false,
     "module": false,
