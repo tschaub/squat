@@ -4,8 +4,8 @@
   "description": "Basic template for new modules",
   "main": "lib/index.js",
   "scripts": {
-    "test": "grunt test",
-    "start": "grunt start"
+    "test": "grunt --stack test",
+    "start": "grunt --stack start"
   },
   "license": "MIT",
   "devDependencies": {
