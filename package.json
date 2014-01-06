@@ -2,7 +2,7 @@
   "name": "squat",
   "version": "0.1.1",
   "description": "Basic template for new modules",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "grunt --stack test",
     "start": "grunt --stack start"
