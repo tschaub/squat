@@ -2,7 +2,7 @@
 
 Basic module scaffolding.
 
- * [Mocha](http://visionmedia.github.io/mocha/) as test framework
+ * [Mocha](http://mochajs.org/) as test framework
  * [Chai](http://chaijs.com/) as assertion library
  * [JSHint](http://www.jshint.com/) to keep your code tidy
  * [Grunt](http://gruntjs.com/) to orchestrate it all
