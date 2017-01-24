@@ -1,5 +1,7 @@
 # Squat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/squat.svg)](https://greenkeeper.io/)
+
 Basic module scaffolding.
 
  * [Mocha](http://visionmedia.github.io/mocha/) as test framework
